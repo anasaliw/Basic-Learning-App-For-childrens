@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".onetwothree"
+    tools:ignore="SpeakableTextPresentCheck">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:paddingTop="15sp"
+            android:id="@+id/t1"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="1"
+            android:textAlignment="center"
+            android:textColor="#FAF7F7"
+            android:background="#9C27B0"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+        <TextView
+            android:paddingTop="15sp"
+            android:id="@+id/t2"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="2"
+            android:textAlignment="center"
+            android:textColor="#FAF7F7"
+            android:background="#6325D3"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+        <TextView
+            android:paddingTop="15sp"
+            android:id="@+id/t3"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="3"
+            android:textAlignment="center"
+            android:textColor="#FAF7F7"
+            android:background="#E91E63"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+        <TextView
+            android:paddingTop="15sp"
+            android:id="@+id/t4"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="4"
+            android:textAlignment="center"
+            android:textColor="#FAF7F7"
+            android:background="#F44336"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/t5"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#FF9800"
+            android:paddingTop="15sp"
+            android:text="5"
+            android:textAlignment="center"
+            android:textColor="#795548"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/t6"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#F6C328"
+            android:paddingTop="15sp"
+            android:text="6"
+            android:textAlignment="center"
+            android:textColor="#FAF7F7"
+            android:textSize="50sp"
+            android:textStyle="bold"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/t7"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#8BC34A"
+            android:paddingTop="15sp"
+            android:text="7"
+            android:textAlignment="center"
+            android:textColor="#FAF7F7"
+            android:textSize="50sp"
+            android:textStyle="bold"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/t8"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#FF5722"
+            android:paddingTop="15sp"
+            android:text="8"
+            android:textAlignment="center"
+            android:textColor="#FAFAFA"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/t9"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:background="#00BCD4"
+            android:paddingTop="15sp"
+            android:text="9"
+            android:textAlignment="center"
+            android:textColor="#FAF7F7"
+            android:textSize="50sp"
+            android:textStyle="bold"
+            tools:ignore="TextContrastCheck" />
+        <TextView
+            android:paddingTop="15sp"
+            android:id="@+id/t10"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="10"
+            android:textAlignment="center"
+            android:textColor="#FAF7F7"
+            android:background="#C32C2C"
+            android:textSize="50sp"
+            android:textStyle="bold" />
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.it18.children_learning_app">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Children_learning_app">
+        <activity
+            android:name=".colors"
+            android:exported="false" />
+        <activity
+            android:name=".star"
+            android:exported="false" />
+        <activity
+            android:name=".pentagon"
+            android:exported="false" />
+        <activity
+            android:name=".oval"
+            android:exported="false" />
+        <activity
+            android:name=".heart"
+            android:exported="false" />
+        <activity
+            android:name=".triangle"
+            android:exported="false" />
+        <activity
+            android:name=".rectangle"
+            android:exported="false" />
+        <activity
+            android:name=".circle"
+            android:exported="false" />
+        <activity
+            android:name=".square"
+            android:exported="false" />
+        <activity
+            android:name=".Shapes"
+            android:exported="false" />
+        <activity
+            android:name=".ten"
+            android:exported="false" />
+        <activity
+            android:name=".nine"
+            android:exported="false" />
+        <activity
+            android:name=".eight"
+            android:exported="false" />
+        <activity
+            android:name=".seven"
+            android:exported="false" />
+        <activity
+            android:name=".sic"
+            android:exported="false" />
+        <activity
+            android:name=".five"
+            android:exported="false" />
+        <activity
+            android:name=".four"
+            android:exported="false" />
+        <activity
+            android:name=".three"
+            android:exported="false" />
+        <activity
+            android:name=".two"
+            android:exported="false" />
+        <activity
+            android:name=".one"
+            android:exported="false" />
+        <activity
+            android:name=".onetwothree"
+            android:exported="false" />
+        <activity
+            android:name=".yaa"
+            android:exported="false" />
+        <activity
+            android:name=".hamza"
+            android:exported="false" />
+        <activity
+            android:name=".lam_alif"
+            android:exported="false" />
+        <activity
+            android:name=".haa_alif"
+            android:exported="false" />
+        <activity
+            android:name=".wow"
+            android:exported="false" />
+        <activity
+            android:name=".noon"
+            android:exported="false" />
+        <activity
+            android:name=".meem"
+            android:exported="false" />
+        <activity
+            android:name=".laam"
+            android:exported="false" />
+        <activity
+            android:name=".kawf"
+            android:exported="false" />
+        <activity
+            android:name=".kaaf"
+            android:exported="false" />
+        <activity
+            android:name=".faa"
+            android:exported="false" />
+        <activity
+            android:name=".gaeen"
+            android:exported="false" />
+        <activity
+            android:name=".aeeen"
+            android:exported="false" />
+        <activity
+            android:name=".zaa"
+            android:exported="false" />
+        <activity
+            android:name=".toen"
+            android:exported="false" />
+        <activity
+            android:name=".zoen"
+            android:exported="false" />
+        <activity
+            android:name=".soen"
+            android:exported="false" />
+        <activity
+            android:name=".sheen"
+            android:exported="false" />
+        <activity
+            android:name=".seen"
+            android:exported="false" />
+        <activity
+            android:name=".zee"
+            android:exported="false" />
+        <activity
+            android:name=".ree"
+            android:exported="false" />
+        <activity
+            android:name=".zuad"
+            android:exported="false" />
+        <activity
+            android:name=".daa"
+            android:exported="false" />
+        <activity
+            android:name=".khaa"
+            android:exported="false" />
+        <activity
+            android:name=".haa"
+            android:exported="false" />
+        <activity
+            android:name=".jeem"
+            android:exported="false" />
+        <activity
+            android:name=".saa"
+            android:exported="false" />
+        <activity
+            android:name=".taa"
+            android:exported="false" />
+        <activity
+            android:name=".baa"
+            android:exported="false" />
+        <activity
+            android:name=".alif"
+            android:exported="false" />
+        <activity
+            android:name=".AlifBaa"
+            android:exported="false" />
+        <activity
+            android:name=".z"
+            android:exported="false" />
+        <activity
+            android:name=".y"
+            android:exported="false" />
+        <activity
+            android:name=".x"
+            android:exported="false" />
+        <activity
+            android:name=".w"
+            android:exported="false" />
+        <activity
+            android:name=".v"
+            android:exported="false" />
+        <activity
+            android:name=".u"
+            android:exported="false" />
+        <activity
+            android:name=".t"
+            android:exported="false" />
+        <activity
+            android:name=".s"
+            android:exported="false" />
+        <activity
+            android:name=".r"
+            android:exported="false" />
+        <activity
+            android:name=".q"
+            android:exported="false" />
+        <activity
+            android:name=".p"
+            android:exported="false" />
+        <activity
+            android:name=".o"
+            android:exported="false" />
+        <activity
+            android:name=".n"
+            android:exported="false" />
+        <activity
+            android:name=".m"
+            android:exported="false" />
+        <activity
+            android:name=".l"
+            android:exported="false" />
+        <activity
+            android:name=".k"
+            android:exported="false" />
+        <activity
+            android:name=".j"
+            android:exported="false" />
+        <activity
+            android:name=".i"
+            android:exported="false" />
+        <activity
+            android:name=".h"
+            android:exported="false" />
+        <activity
+            android:name=".g"
+            android:exported="false" />
+        <activity
+            android:name=".f"
+            android:exported="false" />
+        <activity
+            android:name=".e"
+            android:exported="false" />
+        <activity
+            android:name=".d"
+            android:exported="false" />
+        <activity
+            android:name=".c"
+            android:exported="false" />
+        <activity
+            android:name=".b"
+            android:exported="false" />
+        <activity
+            android:name=".a"
+            android:exported="false" />
+        <activity
+            android:name=".abcd"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
